@@ -39,7 +39,7 @@ mv config/.env.sample config/.env.development.local
 GEMINI_API_KEY=your_api_key_here
 ```
 
-### 5. Adicionar a Chave de API
+### 5. Rodar o projeto
 
 ```sh
 cd cmd/app
