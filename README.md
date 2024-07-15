@@ -20,8 +20,8 @@ Este projeto demonstra como configurar e usar o Google Gemini com Go. Siga as et
 Primeiro, clone este repositório:
 
 ```sh
-git clone https://github.com/seu-usuario/gemini_project.git
-cd gemini_project
+git clone https://github.com/gesuvs/m23-golang-gemini.git
+cd m23-golang-gemini
 ```
 ### 2. Configurar a Chave de API
 
